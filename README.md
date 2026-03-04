@@ -9,7 +9,7 @@ CompTIA Security+ Certified | Offensive Security Enthusiast
 
 ---
 
-## Professional Profile
+## Profile
 
 Cybersecurity professional with hands-on experience in web application security testing, network reconnaissance, and traffic analysis. Skilled in identifying vulnerabilities and simulating real-world attack techniques to strengthen organizational security posture.
 
@@ -47,7 +47,7 @@ https://www.credly.com/badges/21831f23-a515-46a9-84c2-d3246233f74c/public_url
 
 ---
 
-## Selected Projects
+##  Projects
 
 - Web Application Security Testing Lab  
 - Network Traffic Analysis  
@@ -56,7 +56,7 @@ https://www.credly.com/badges/21831f23-a515-46a9-84c2-d3246233f74c/public_url
 
 ---
 
-## Professional Objective
+##  Objective
 
 Seeking opportunities to contribute to security operations and offensive security teams by applying penetration testing methodologies and risk assessment techniques within enterprise environments.
 
